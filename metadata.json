@@ -1,0 +1,6 @@
+{
+  "name": "Chappie Neural Mobile Assistant",
+  "description": "Asistente inteligente personal estilo Alexa con interfaz inspirada en Chappie: interceptor celular de llamadas y mensajes, síntesis de voz, núcleo de memoria neuronal y telemetría táctica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
